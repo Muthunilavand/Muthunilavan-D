@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a1e61ab-9a2a-44d0-bcc2-0c60fc8ff1e8)## Hi there 👋 It's me Muthunilavan D
+## Hi there 👋 It's me Muthunilavan D
 
 B.E CSE Student | II Year
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif">
