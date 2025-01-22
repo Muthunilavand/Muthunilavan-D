@@ -1,7 +1,7 @@
-## Hi there 👋 It's me Muthunilavan D
+![image](https://github.com/user-attachments/assets/9a1e61ab-9a2a-44d0-bcc2-0c60fc8ff1e8)## Hi there 👋 It's me Muthunilavan D
 
 B.E CSE Student | II Year
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif)">
 
 - 🔭 Here's my [portfolio](www.linkedin.com/in/d-mn-92a1b7341)  
 - 🌱 I’m currently learning DSA and Flutter app development  
